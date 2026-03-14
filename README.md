@@ -2,7 +2,9 @@
 > [!NOTE]
 > All image files are adapted with permission from the original "Console Explosions" artwork created by Pierre Roussel. He can be found [here](https://www.instagram.com/_itspear/). Original art files can be found [here](https://www.artstation.com/pierreroussel/albums/8482338).
 
-Files in this repo are organized by device. In each device's respective directory, there is a `base` folder in which images are sized for appropriately, but no transparency of any kind is applied. These are present in case you would like to apply some other kind of affect to the image, such as dithering, etc. Additionally, there is a `gradient` folder in which a transparency gradient has been applied to the base image.
+Files in this repo are organized by `device`. In each device's respective directory, there is a `base` folder in which images are sized appropriately, but no transparency of any kind is applied. These are present in case you would like to apply some other kind of affect to the image, such as dithering, etc. Additionally, there is a `gradient` folder in which a transparency gradient has been applied to the base image.
+
+In MustardOS (MuOS), in order to use an image as a system directory background, you must place your image file in /MUOS/info/catalogue/Folder/box, and you must rename the image file to be the same as the name of the system directory name you want it displayed for. Do not remove the image file extension when changing the file name (e.g. `.png`). See [here](https://muos.dev/installation/artwork#folder-artwork) for more information.
 
 ## TODO
 - [x] Create README.md
