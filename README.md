@@ -9,14 +9,15 @@ In MustardOS (MuOS), in order to use an image as a system directory background, 
 ## TODO
 - [x] Create README.md
 - [x] Add initial files for the CubeXX
+- [x] Create and add GBA SP version for 34XX and 34XXSP
 - [ ] Create and add blue GBA version for CubeXX
 - [ ] Create and add GBA SP version for CubeXX
-- [ ] Create and add all relevant system versions for Anbernix RG 34XXSP
+- [ ] Create and add all other relevant system versions for Anbernix RG 34XX and 34XXSP
 - [ ] Create and add all relevant system versions for Anbernix RG 476H (GammaOS/Daijisho)
 
 ## Devices
-### Anbernic RG 34XXSP
-Coming soon...
+### Anbernic RG 34XX and 34XXSP
+Files for the Anbernic RG 34XX and 34XXSP are located [here](/device/34xx/). Images are 720x388, which is the space available in the content explorer of the default MuOS theme (as of Funky Jacaranda). Using GIMP, a horizontal, transparent gradient was applied from 0-480px with a single midpoint at position 50 (halfway), and blending set to sinusoidal. Your mileage may vary in other operating systems, other versions of MuOS, and other MuOS themes.
 ### Anbernic RG 476H
 Coming not-so-soon...
 ### Anbernic RG CubeXX
