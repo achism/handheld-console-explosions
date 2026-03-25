@@ -1,6 +1,6 @@
 # System Art Adapted for Handhelds
 > [!NOTE]
-> All image files are adapted with permission from the original "Console Explosions" artwork created by Pierre Roussel. He can be found [here](https://www.instagram.com/_itspear/). Original art files can be found [here](https://www.artstation.com/pierreroussel/albums/8482338).
+> All image files are adapted from the original "Console Explosions" artwork created by Pierre Roussel, with permission. He can be found [here](https://www.instagram.com/_itspear/). Original art files can be found [here](https://www.artstation.com/pierreroussel/albums/8482338).
 
 Files in this repo are organized by `device`. In each device's respective directory, there is a `base` folder in which images are sized appropriately, but no transparency of any kind is applied. These are present in case you would like to apply some other kind of affect to the image, such as dithering, etc. Additionally, there is a `gradient` folder in which a transparency gradient has been applied to the base image.
 
